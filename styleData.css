@@ -1,0 +1,20 @@
+.tiket{
+    height: 100vh;
+    background-image: url("504403.webp");
+    background-repeat: no-repeat;
+    background-size: 100;
+}
+
+.data-box{
+    background-color: aliceblue;
+    width: 70vh;
+    height: 70vh;
+    border-radius: 8px;
+    opacity: 0.9;
+} 
+
+@media print {
+    .btn-cetak {
+        display: none;
+    }
+}

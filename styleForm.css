@@ -1,0 +1,15 @@
+.daftar{
+    height: 100vh;
+    background-image: url("504403.webp");
+    background-repeat: no-repeat;
+    background-size: 100;
+}
+
+.form-daftar{
+    background-color: #fff;
+    width: 70vh;
+    height: 73vh;
+    justify-content: center;
+    border-radius: 8px;
+    opacity: 0.9;
+}
